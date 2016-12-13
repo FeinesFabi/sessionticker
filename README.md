@@ -1,1 +1,1 @@
-"# session ticker" 
+# session ticker
